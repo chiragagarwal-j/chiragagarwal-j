@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Agarwal</h1>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/among-us-gif-24405961">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/among-us-gif-24405961](https://media.tenor.com/ifb0jBZZlTIAAAAi/among-us.gif)">
 <p align="left">
 <a href="https://linkedin.com/in/chiragagarwals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chiragagarwals" height="30" width="40" /></a>
 </p>
